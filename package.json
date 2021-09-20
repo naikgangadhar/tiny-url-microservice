@@ -1,0 +1,12 @@
+{
+  "name": "tiny-url-microservices",
+  "version": "1.0.0",
+  "description": "This is a microservice for tiny-url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
